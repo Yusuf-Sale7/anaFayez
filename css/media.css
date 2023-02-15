@@ -1,0 +1,406 @@
+@media (max-width: 375px) {
+  .offersSlider .offer-block .offer .offer-img {
+    height: 120px
+  }
+
+  /* Navbar */
+  .intro .nBar .navbar-nav {
+    text-align: center;
+  }
+
+  .intro .nBar .navbar-nav li {
+    display: block;
+  }
+
+  .intro .nBar .loginLink,
+  .intro .nBar .comp {
+    float: none;
+    padding: .5rem 1rem
+  }
+
+  .intro .nBar .comp a {
+    margin-right: 0
+  }
+
+  .intro .home .join-us h3 {
+    font-size: 35px
+  }
+
+  .intro .festival p {
+    font-size: 22px
+  }
+
+  .intro .home .join-us .txt .img {
+    display: none
+  }
+
+  .intro .home .join-us .txt .img2 {
+    display: block;
+    top: -150px;
+    left: 60px;
+    width: 100px;
+    height: 100px
+  }
+
+  .intro .home .join-us .txt p {
+    width: 100%
+  }
+
+  .intro .home .join-us .joinBtn {
+    padding-top: 10px
+  }
+
+  .inHome .tempOffers {
+    display: none;
+  }
+
+  .intro .festival .content .img {
+    width: 160px;
+    height: 160px
+  }
+
+  .banner .bannerImg {
+    height: 180px
+  }
+
+  .playWin {
+    padding: 30px 0
+  }
+
+  .playWin h3 {
+    font-size: 40px;
+    padding-bottom: 30px
+  }
+
+  .joinWin h3 {
+    font-size: 30px;
+    padding-bottom: 15px
+  }
+
+  .joinWin .txt {
+    padding: 15px
+  }
+
+  .competitions {
+    padding: 30px 0;
+    background-image: url('../imgs/bg2.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat
+  }
+
+  .competitions h3 {
+    font-size: 35px;
+    padding-bottom: 25px
+  }
+
+  .competitions .hidden-block {
+    display: block;
+  }
+
+  .competitions .comp-block {
+    height: 230px
+  }
+
+  .competitions .comp-block h5 {
+    font-size: 18px;
+    padding: 15px 0
+  }
+
+  .competitions .comp-block .icon {
+    width: 100px;
+    height: 100px;
+    background-size: 85%;
+    box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    margin: auto;
+  }
+
+  .competitions .comp-block .action {
+    display: none;
+  }
+
+  .playWin .join-block {
+    min-height: 300px
+  }
+
+  .playWin .join-block h5 {
+    font-size: 22px;
+    padding: 15px 0
+  }
+
+  .playWin .join-block .icon {
+    width: 120px;
+    height: 120px
+  }
+
+  .faq h3 {
+    font-size: 30px;
+  }
+
+  .faq .question h5 {
+    font-size: 18px;
+  }
+
+  footer p {
+    width: 100%
+  }
+
+  footer .subscribe .form-group {
+    width: 100%
+  }
+
+  footer .inHome .content {
+    display: none;
+  }
+
+  footer .inHome .tempOffers {
+    display: block;
+  }
+
+}
+
+@media (min-width: 376px) and (max-width: 575px) {
+  .offersSlider .offer-block .offer .offer-img {
+    height: 150px
+  }
+
+  /* Navbar */
+  .intro .nBar .navbar-nav {
+    text-align: center;
+  }
+
+  .intro .nBar .navbar-nav li {
+    display: block;
+  }
+
+  .intro .nBar .loginLink,
+  .intro .nBar .comp {
+    float: none;
+    padding: .5rem 1rem
+  }
+
+  .intro .nBar .comp a {
+    margin-right: 0
+  }
+
+  .intro .home .join-us .txt .img {
+    display: none
+  }
+
+  .intro .home .join-us .txt .img2 {
+    display: block;
+    top: -160px;
+    left: 60px;
+    width: 100px;
+    height: 100px
+  }
+
+  .intro .home .join-us .txt p {
+    width: 80%
+  }
+
+  .intro .home .join-us .joinBtn {
+    padding-top: 10px
+  }
+
+  .inHome .tempOffers {
+    display: none;
+  }
+
+  .intro .festival .content .img {
+    width: 200px;
+    height: 200px
+  }
+
+  .banner .bannerImg {
+    height: 220px
+  }
+
+  .playWin {
+    padding: 30px 0
+  }
+
+  .playWin h3 {
+    font-size: 40px;
+    padding-bottom: 35px
+  }
+
+  .joinWin .txt {
+    padding: 15px
+  }
+
+  .competitions {
+    padding: 30px 0;
+    background-image: url('../imgs/bg2.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat
+  }
+
+  .competitions h3 {
+    font-size: 40px;
+    padding-bottom: 25px
+  }
+
+  .competitions .hidden-block {
+    display: block;
+  }
+
+  .competitions .comp-block {
+    height: 240px
+  }
+
+  .competitions .comp-block .icon {
+    width: 110px;
+    height: 110px;
+    background-size: 85%;
+    box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+  }
+
+  .competitions .comp-block h5 {
+    font-size: 18px;
+    padding: 20px 0
+  }
+
+  .competitions .comp-block .action {
+    display: none;
+  }
+
+  .faq h3 {
+    font-size: 35px;
+  }
+
+  .faq .question h5 {
+    font-size: 18px;
+  }
+
+  footer p {
+    width: 80%
+  }
+
+  footer .subscribe .form-group {
+    width: 100%
+  }
+
+  footer .inHome .content {
+    display: none;
+  }
+
+  footer .inHome .tempOffers {
+    display: block;
+  }
+
+ }
+
+@media (min-width: 576px) and (max-width: 767px) {
+  /* Navbar */
+  .intro .nBar .navbar-nav {
+    text-align: center;
+  }
+
+  .intro .nBar .navbar-nav li {
+    display: block;
+  }
+
+  .intro .nBar .loginLink,
+  .intro .nBar .comp {
+    float: none;
+    padding: .5rem 1rem
+  }
+
+  .intro .nBar .comp a {
+    margin-right: 0
+  }
+
+  .intro .home .join-us .txt .img {
+    display: none
+  }
+
+  .intro .home .join-us .txt p {
+    width: 80%
+  }
+
+  .intro .home .join-us .joinBtn {
+    padding-top: 10px
+  }
+
+  .competitions .comp-block h5 {
+    font-size: 20px
+  }
+
+  .banner .bannerImg {
+    height: 250px
+  }
+
+  .faq .question h5 {
+    font-size: 20px;
+  }
+
+  footer p {
+    width: 80%
+  }
+
+  footer .subscribe .form-group {
+    width: 90%
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+.signup .modal-dialog {
+  min-width: 90%
+}
+
+  /* Navbar */
+  .intro .nBar .navbar-nav {
+    text-align: center;
+  }
+
+  .intro .nBar .navbar-nav li {
+    display: block;
+  }
+
+  .intro .nBar .loginLink,
+  .intro .nBar .comp {
+    float: none;
+    padding: .5rem 1rem
+  }
+
+  .intro .nBar .comp a {
+    margin-right: 0
+  }
+
+  .intro .home .join-us .txt .img {
+    width: 150px;
+    height: 150px
+  }
+
+  .playWin .join-block {
+    height: 460px
+  }
+
+  footer p {
+    width: 70%
+  }
+
+  footer .subscribe .form-group {
+    width: 80%
+  }
+
+}
+
+@media (min-width: 1440px) {
+  /* Navbar */
+  .nBar > div.container-fluid {
+    display: flex;
+  }
+
+  .nBar .navbar {
+    flex: 0 0 auto;
+    width: auto;
+    max-width: none;
+    margin: auto;
+  }
+}
